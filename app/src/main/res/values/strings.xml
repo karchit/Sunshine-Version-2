@@ -17,5 +17,6 @@
     <string name="pref_tempOptions_imperial" translatable="false">imperial</string>
     <string name="pref_tempOptions_metric" translatable="false">metric</string>
     <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
 
 </resources>
